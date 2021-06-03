@@ -1,0 +1,26 @@
+body{
+    background-color: #88b5e8;
+    text-align: center;
+    color: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    background-color: #ffff;
+    width: 80%;
+   margin: auto;
+   height: 60vh;
+   border-radius: 10px;
+   color: black;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.cidade{
+    margin-left: 60px;
+}
+.dados{
+    margin-right: 60px;
+}
+#img{
+    max-width: 50%;
+}
