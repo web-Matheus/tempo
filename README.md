@@ -6,4 +6,9 @@
  > a consumir uma Api
  > manipular objetos de uma api
  > usei o DOM para reagir de acordo com as condições do clima
- > vc pode verificar o resultado na imagem : resultado
+ 
+ ## Resultado do projeto
+ 
+ ![Previsão do tempo](https://github.com/web-Matheus/tempo/blob/main/resultado.png)
+ 
+ 
